@@ -1,0 +1,19 @@
+
+.row {
+    display: flex;
+    justify-content: space between;
+    flex-wrap: wrap; 
+}
+
+.column {
+    display: inline block;
+    padding: 0.5em;
+    display: block;
+    width: 33.333%;
+    box-sizing: border-box;
+}
+
+.star{
+    width:100px;
+    height:25px;
+}

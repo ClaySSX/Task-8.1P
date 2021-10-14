@@ -1,0 +1,42 @@
+  
+  .Fmenu {
+    vertical-align: middle;
+    display: table-cell;
+    bottom: 0;
+    width: 100%;
+    box-sizing: border-box;
+    background: #0047ab;
+    padding: 10px 15px;
+    display: table;
+    width: 100%;
+    height: 70px;
+  }
+  .Fmenu a:hover {
+    color: black;
+  }
+  .Fmenu ul, .fR{
+    text-align: right;
+  }
+  
+  .Fmenu ul, .fL {
+    text-align: left;
+  }
+  
+  a{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+}
+  .Fmenu ul li {
+    
+    display:inline;
+    padding: 10px 40px;
+    color: white;
+
+  }
+
+ .logos{
+   width :30px;
+   height: 30px;
+   
+ }
